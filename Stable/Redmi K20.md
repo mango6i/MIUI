@@ -1,4 +1,4 @@
-| Redmi K20  稳定版    |
+| Redmi K20  稳定版卡刷包    |
 | ---- |
 | [miui_DAVINCI_V12.5.2.0.RFJCNXM_8e20b56805_11.0.zip](https://hugeota.d.miui.com/V12.5.2.0.RFJCNXM/miui_DAVINCI_V12.5.2.0.RFJCNXM_8e20b56805_11.0.zip)    |
 | [miui_DAVINCI_V12.5.1.0.RFJCNXM_d03c1be4ec_11.0.zip](https://hugeota.d.miui.com/V12.5.1.0.RFJCNXM/miui_DAVINCI_V12.5.1.0.RFJCNXM_d03c1be4ec_11.0.zip)    |
