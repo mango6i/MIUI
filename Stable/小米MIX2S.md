@@ -1,4 +1,4 @@
-| 小米MIX2S  稳定版    |
+| 小米MIX2S  稳定版卡刷包    |
 | ---- |
 | [miui_MIMIX2S_V12.5.1.0.QDGCNXM_8326b14c82_10.0.zip](https://hugeota.d.miui.com/V12.5.1.0.QDGCNXM/miui_MIMIX2S_V12.5.1.0.QDGCNXM_8326b14c82_10.0.zip)    |
 | [miui_MIMIX2S_V12.0.3.0.QDGCNXM_cd55623678_10.0.zip](https://hugeota.d.miui.com/V12.0.3.0.QDGCNXM/miui_MIMIX2S_V12.0.3.0.QDGCNXM_cd55623678_10.0.zip)    |
