@@ -1,4 +1,4 @@
-| 小米CC 9美图定制版  开发版/内测版    |
+| 小米CC 9美图定制版  开发版/内测版卡刷包    |
 | ---- |
 | [miui_VELA_21.8.11_092a5d8b00_11.0.zip](https://hugeota.d.miui.com/21.8.11/miui_VELA_21.8.11_092a5d8b00_11.0.zip)    |
 | [miui_VELA_21.8.10_ae3f801ad1_11.0.zip](https://hugeota.d.miui.com/21.8.10/miui_VELA_21.8.10_ae3f801ad1_11.0.zip)    |
