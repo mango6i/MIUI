@@ -1,4 +1,4 @@
-| 小米11 Ultra  开发版/内测版    |
+| 小米11 Ultra  开发版/内测版卡刷包    |
 | ---- |
 | [miui_STAR_21.12.8_fb4f09cd73_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_STAR_21.12.8_fb4f09cd73_12.0.zip)    |
 | [miui_STAR_21.12.7_6e4ebdddd0_12.0.zip](https://hugeota.d.miui.com/21.12.7/miui_STAR_21.12.7_6e4ebdddd0_12.0.zip)    |
