@@ -1,4 +1,4 @@
-| Redmi K40  开发版/内测版    |
+| Redmi K40  开发版/内测版卡刷包    |
 | ---- |
 | [miui_ALIOTH_21.12.9_9b3db7a316_12.0.zip](https://hugeota.d.miui.com/21.12.9/miui_ALIOTH_21.12.9_9b3db7a316_12.0.zip)    |
 | [miui_ALIOTH_21.12.8_78fafd0681_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_ALIOTH_21.12.8_78fafd0681_12.0.zip)    |
