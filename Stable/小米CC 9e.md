@@ -1,4 +1,4 @@
-| 小米CC 9e  稳定版    |
+| 小米CC 9e  稳定版卡刷包    |
 | ---- |
 | [miui_LAURUS_V12.5.5.0.QFMCNXM_eb006da5b1_10.0.zip](https://hugeota.d.miui.com/V12.5.5.0.QFMCNXM/miui_LAURUS_V12.5.5.0.QFMCNXM_eb006da5b1_10.0.zip)    |
 | [miui_LAURUS_V12.5.2.0.QFMCNXM_f8f444c743_10.0.zip](https://hugeota.d.miui.com/V12.5.2.0.QFMCNXM/miui_LAURUS_V12.5.2.0.QFMCNXM_f8f444c743_10.0.zip)    |
