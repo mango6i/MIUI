@@ -1,4 +1,4 @@
-| 小米11 Ultra  稳定版    |
+| 小米11 Ultra  稳定版卡刷包    |
 | ---- |
 | [miui_STAR_V12.5.20.0.RKACNXM_942a5712ef_11.0.zip](https://hugeota.d.miui.com/V12.5.20.0.RKACNXM/miui_STAR_V12.5.20.0.RKACNXM_942a5712ef_11.0.zip)    |
 | [miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip](https://hugeota.d.miui.com/V12.5.17.0.RKACNXM/miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip)    |
