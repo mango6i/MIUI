@@ -1,4 +1,4 @@
-| 小米MIX3  开发版/内测版    |
+| 小米MIX3  开发版/内测版卡刷包    |
 | ---- |
 | [miui_MIMIX3_20.9.4_9b9a07c611_10.0.zip](https://hugeota.d.miui.com/20.9.4/miui_MIMIX3_20.9.4_9b9a07c611_10.0.zip)    |
 | [miui_MIMIX3_20.9.3_585adf1035_10.0.zip](https://hugeota.d.miui.com/20.9.3/miui_MIMIX3_20.9.3_585adf1035_10.0.zip)    |
