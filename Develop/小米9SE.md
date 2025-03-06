@@ -1,4 +1,4 @@
-| 小米9SE  开发版/内测版    |
+| 小米9SE  开发版/内测版卡刷包    |
 | ---- |
 | [miui_GRUS_21.9.1_3a58e8bdf2_11.0.zip](https://hugeota.d.miui.com/21.9.1/miui_GRUS_21.9.1_3a58e8bdf2_11.0.zip)    |
 | [miui_GRUS_21.8.25_96abb5c16c_11.0.zip](https://hugeota.d.miui.com/21.8.25/miui_GRUS_21.8.25_96abb5c16c_11.0.zip)    |
