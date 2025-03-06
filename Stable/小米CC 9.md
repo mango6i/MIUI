@@ -1,4 +1,4 @@
-| 小米CC 9  稳定版    |
+| 小米CC 9  稳定版卡刷包    |
 | ---- |
 | [miui_PYXIS_V12.5.5.0.RFCCNXM_c3b5b178ff_11.0.zip](https://hugeota.d.miui.com/V12.5.5.0.RFCCNXM/miui_PYXIS_V12.5.5.0.RFCCNXM_c3b5b178ff_11.0.zip)    |
 | [miui_PYXIS_V12.5.3.0.RFCCNXM_123bbbed28_11.0.zip](https://hugeota.d.miui.com/V12.5.3.0.RFCCNXM/miui_PYXIS_V12.5.3.0.RFCCNXM_123bbbed28_11.0.zip)    |
