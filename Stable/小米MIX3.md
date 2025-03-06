@@ -1,4 +1,4 @@
-| 小米MIX3  稳定版    |
+| 小米MIX3  稳定版卡刷包    |
 | ---- |
 | [miui_MIMIX3_V12.5.1.0.QEECNXM_b008b041ef_10.0.zip](https://hugeota.d.miui.com/V12.5.1.0.QEECNXM/miui_MIMIX3_V12.5.1.0.QEECNXM_b008b041ef_10.0.zip)    |
 | [miui_MIMIX3_V12.0.4.0.QEECNXM_c91b8f57de_10.0.zip](https://hugeota.d.miui.com/V12.0.4.0.QEECNXM/miui_MIMIX3_V12.0.4.0.QEECNXM_c91b8f57de_10.0.zip)    |
