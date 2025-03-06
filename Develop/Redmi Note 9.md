@@ -1,4 +1,4 @@
-| Redmi Note 9  开发版/内测版    |
+| Redmi Note 9  开发版/内测版卡刷包    |
 | ---- |
 | [miui_CANNON_21.8.12_cf542c8ece_11.0.zip](https://hugeota.d.miui.com/21.8.12/miui_CANNON_21.8.12_cf542c8ece_11.0.zip)    |
 | [miui_CANNON_21.8.11_b60c897db5_11.0.zip](https://hugeota.d.miui.com/21.8.11/miui_CANNON_21.8.11_b60c897db5_11.0.zip)    |
