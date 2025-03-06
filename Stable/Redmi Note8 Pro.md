@@ -1,4 +1,4 @@
-| Redmi Note8 Pro  稳定版    |
+| Redmi Note8 Pro  稳定版卡刷包    |
 | ---- |
 | [miui_BEGONIA_V12.5.3.0.RGGCNXM_07349f1737_11.0.zip](https://hugeota.d.miui.com/V12.5.3.0.RGGCNXM/miui_BEGONIA_V12.5.3.0.RGGCNXM_07349f1737_11.0.zip)    |
 | [miui_BEGONIA_V12.5.2.0.RGGCNXM_9d73ae8124_11.0.zip](https://hugeota.d.miui.com/V12.5.2.0.RGGCNXM/miui_BEGONIA_V12.5.2.0.RGGCNXM_9d73ae8124_11.0.zip)    |
