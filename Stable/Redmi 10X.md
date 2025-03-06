@@ -1,4 +1,4 @@
-| Redmi 10X  稳定版    |
+| Redmi 10X  稳定版卡刷包    |
 | ---- |
 | [miui_MERLIN_V12.5.3.0.RJOCNXM_d583d95853_11.0.zip](https://hugeota.d.miui.com/V12.5.3.0.RJOCNXM/miui_MERLIN_V12.5.3.0.RJOCNXM_d583d95853_11.0.zip)    |
 | [miui_MERLIN_V12.5.2.0.RJOCNXM_dc5c5badb0_11.0.zip](https://hugeota.d.miui.com/V12.5.2.0.RJOCNXM/miui_MERLIN_V12.5.2.0.RJOCNXM_dc5c5badb0_11.0.zip)    |
