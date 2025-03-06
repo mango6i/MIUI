@@ -1,4 +1,4 @@
-| Redmi Note7  开发版/内测版    |
+| Redmi Note7  开发版/内测版卡刷包    |
 | ---- |
 | [miui_LAVENDER_21.4.22_6bbb89d224_10.0.zip](https://hugeota.d.miui.com/21.4.22/miui_LAVENDER_21.4.22_6bbb89d224_10.0.zip)    |
 | [miui_LAVENDER_21.4.21_4a7184ecfa_10.0.zip](https://hugeota.d.miui.com/21.4.21/miui_LAVENDER_21.4.21_4a7184ecfa_10.0.zip)    |
