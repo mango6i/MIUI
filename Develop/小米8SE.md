@@ -1,4 +1,4 @@
-| 小米8SE  开发版/内测版    |
+| 小米8SE  开发版/内测版卡刷包    |
 | ---- |
 | [miui_MI8SE_20.9.4_8b18fec4c4_10.0.zip](https://hugeota.d.miui.com/20.9.4/miui_MI8SE_20.9.4_8b18fec4c4_10.0.zip)    |
 | [miui_MI8SE_20.9.3_12b4a58214_10.0.zip](https://hugeota.d.miui.com/20.9.3/miui_MI8SE_20.9.3_12b4a58214_10.0.zip)    |
