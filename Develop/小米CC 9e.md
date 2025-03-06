@@ -1,4 +1,4 @@
-| 小米CC 9e  开发版/内测版    |
+| 小米CC 9e  开发版/内测版卡刷包    |
 | ---- |
 | [miui_LAURUS_21.4.22_34a355177c_10.0.zip](https://hugeota.d.miui.com/21.4.22/miui_LAURUS_21.4.22_34a355177c_10.0.zip)    |
 | [miui_LAURUS_21.4.21_25f88a5ec1_10.0.zip](https://hugeota.d.miui.com/21.4.21/miui_LAURUS_21.4.21_25f88a5ec1_10.0.zip)    |
