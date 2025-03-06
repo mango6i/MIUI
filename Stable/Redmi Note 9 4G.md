@@ -1,4 +1,4 @@
-| Redmi Note 9 4G  稳定版    |
+| Redmi Note 9 4G  稳定版卡刷包   |
 | ---- |
 | [miui_LIME_V12.5.5.0.RJQCNXM_bb14040e90_11.0.zip](https://hugeota.d.miui.com/V12.5.5.0.RJQCNXM/miui_LIME_V12.5.5.0.RJQCNXM_bb14040e90_11.0.zip)    |
 | [miui_LIME_V12.5.4.0.RJQCNXM_7d50fe0c6b_11.0.zip](https://hugeota.d.miui.com/V12.5.4.0.RJQCNXM/miui_LIME_V12.5.4.0.RJQCNXM_7d50fe0c6b_11.0.zip)    |
