@@ -1,4 +1,4 @@
-| 小米9Pro 5G  稳定版    |
+| 小米9Pro 5G  稳定版卡刷包    |
 | ---- |
 | [miui_CRUX_V12.5.3.0.RFXCNXM_190e6aea41_11.0.zip](https://hugeota.d.miui.com/V12.5.3.0.RFXCNXM/miui_CRUX_V12.5.3.0.RFXCNXM_190e6aea41_11.0.zip)    |
 | [miui_CRUX_V12.5.1.0.RFXCNXM_9d05ab098d_11.0.zip](https://hugeota.d.miui.com/V12.5.1.0.RFXCNXM/miui_CRUX_V12.5.1.0.RFXCNXM_9d05ab098d_11.0.zip)    |
