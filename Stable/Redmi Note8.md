@@ -1,4 +1,4 @@
-| Redmi Note8  稳定版    |
+| Redmi Note8  稳定版卡刷包    |
 | ---- |
 | [miui_GINKGO_V12.5.4.0.RCOCNXM_7b06ce4b4d_11.0.zip](https://hugeota.d.miui.com/V12.5.4.0.RCOCNXM/miui_GINKGO_V12.5.4.0.RCOCNXM_7b06ce4b4d_11.0.zip)    |
 | [miui_GINKGO_V12.5.3.0.RCOCNXM_1dd31985ed_11.0.zip](https://hugeota.d.miui.com/V12.5.3.0.RCOCNXM/miui_GINKGO_V12.5.3.0.RCOCNXM_1dd31985ed_11.0.zip)    |
