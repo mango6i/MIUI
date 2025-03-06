@@ -1,4 +1,4 @@
-| Redmi 10X Pro  稳定版    |
+| Redmi 10X Pro  稳定版卡刷包    |
 | ---- |
 | [miui_BOMB_V12.5.6.0.RJLCNXM_33ea11cb38_11.0.zip](https://hugeota.d.miui.com/V12.5.6.0.RJLCNXM/miui_BOMB_V12.5.6.0.RJLCNXM_33ea11cb38_11.0.zip)    |
 | [miui_BOMB_V12.5.4.0.RJLCNXM_669c9f49ef_11.0.zip](https://hugeota.d.miui.com/V12.5.4.0.RJLCNXM/miui_BOMB_V12.5.4.0.RJLCNXM_669c9f49ef_11.0.zip)    |
