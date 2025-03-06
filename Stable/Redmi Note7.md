@@ -1,4 +1,4 @@
-| Redmi Note7  稳定版    |
+| Redmi Note7  稳定版卡刷包    |
 | ---- |
 | [miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip](https://hugeota.d.miui.com/V12.5.7.0.QFGCNXM/miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip)    |
 | [miui_LAVENDER_V12.5.3.0.QFGCNXM_964faa8ebc_10.0.zip](https://hugeota.d.miui.com/V12.5.3.0.QFGCNXM/miui_LAVENDER_V12.5.3.0.QFGCNXM_964faa8ebc_10.0.zip)    |
