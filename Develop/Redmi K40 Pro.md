@@ -1,4 +1,4 @@
-| Redmi K40 Pro  开发版/内测版    |
+| Redmi K40 Pro  开发版/内测版卡刷包    |
 | ---- |
 | [miui_HAYDN_21.12.8_d0390386e0_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_HAYDN_21.12.8_d0390386e0_12.0.zip)    |
 | [miui_HAYDN_21.12.7_e4d47e539e_12.0.zip](https://hugeota.d.miui.com/21.12.7/miui_HAYDN_21.12.7_e4d47e539e_12.0.zip)    |
