@@ -1,4 +1,4 @@
-| 小米MIX2S  开发版/内测版    |
+| 小米MIX2S  开发版/内测版卡刷包    |
 | ---- |
 | [miui_MIMIX2S_20.9.4_233f82b05a_10.0.zip](https://hugeota.d.miui.com/20.9.4/miui_MIMIX2S_20.9.4_233f82b05a_10.0.zip)    |
 | [miui_MIMIX2S_20.9.3_cf68e3bc9e_10.0.zip](https://hugeota.d.miui.com/20.9.3/miui_MIMIX2S_20.9.3_cf68e3bc9e_10.0.zip)    |
