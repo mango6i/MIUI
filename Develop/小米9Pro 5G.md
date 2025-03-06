@@ -1,4 +1,4 @@
-| 小米9Pro 5G  开发版/内测版    |
+| 小米9Pro 5G  开发版/内测版卡刷包    |
 | ---- |
 | [miui_CRUX_21.11.24_6657d046c8_11.0.zip](https://hugeota.d.miui.com/21.11.24/miui_CRUX_21.11.24_6657d046c8_11.0.zip)    |
 | [miui_CRUX_21.11.17_fbaa901931_11.0.zip](https://hugeota.d.miui.com/21.11.17/miui_CRUX_21.11.17_fbaa901931_11.0.zip)    |
