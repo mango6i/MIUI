@@ -1,4 +1,4 @@
-| Redmi 10X 5G  稳定版    |
+| Redmi 10X 5G  稳定版卡刷包    |
 | ---- |
 | [miui_ATOM_V12.5.7.0.RJHCNXM_7eeb1dd5d5_11.0.zip](https://hugeota.d.miui.com/V12.5.7.0.RJHCNXM/miui_ATOM_V12.5.7.0.RJHCNXM_7eeb1dd5d5_11.0.zip)    |
 | [miui_ATOM_V12.5.4.0.RJHCNXM_0443e99c1c_11.0.zip](https://hugeota.d.miui.com/V12.5.4.0.RJHCNXM/miui_ATOM_V12.5.4.0.RJHCNXM_0443e99c1c_11.0.zip)    |
