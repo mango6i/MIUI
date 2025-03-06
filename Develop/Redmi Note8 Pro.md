@@ -1,4 +1,4 @@
-| Redmi Note8 Pro  开发版/内测版    |
+| Redmi Note8 Pro  开发版/内测版卡刷包    |
 | ---- |
 | [miui_BEGONIA_21.8.20_d84d724228_11.0.zip](https://hugeota.d.miui.com/21.8.20/miui_BEGONIA_21.8.20_d84d724228_11.0.zip)    |
 | [miui_BEGONIA_21.8.12_2abde7156a_11.0.zip](https://hugeota.d.miui.com/21.8.12/miui_BEGONIA_21.8.12_2abde7156a_11.0.zip)    |
