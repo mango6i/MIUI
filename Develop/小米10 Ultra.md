@@ -1,4 +1,4 @@
-| 小米10 Ultra  开发版/内测版    |
+| 小米10 Ultra  开发版/内测版卡刷包    |
 | ---- |
 | [miui_CAS_21.12.8_1e8b3aaa27_12.0.zip](https://hugeota.d.miui.com/21.12.8/miui_CAS_21.12.8_1e8b3aaa27_12.0.zip)    |
 | [miui_CAS_21.12.7_66efa2edac_12.0.zip](https://hugeota.d.miui.com/21.12.7/miui_CAS_21.12.7_66efa2edac_12.0.zip)    |
