@@ -1,4 +1,4 @@
-| Redmi K20  开发版/内测版    |
+| Redmi K20  开发版/内测版卡刷包    |
 | ---- |
 | [miui_DAVINCI_21.8.11_398702db56_11.0.zip](https://hugeota.d.miui.com/21.8.11/miui_DAVINCI_21.8.11_398702db56_11.0.zip)    |
 | [miui_DAVINCI_21.8.10_b998124bf9_11.0.zip](https://hugeota.d.miui.com/21.8.10/miui_DAVINCI_21.8.10_b998124bf9_11.0.zip)    |
