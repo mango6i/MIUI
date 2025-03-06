@@ -1,4 +1,4 @@
-| Redmi K20 Pro  开发版/内测版    |
+| Redmi K20 Pro  开发版/内测版卡刷包    |
 | ---- |
 | [miui_RAPHAEL_21.11.24_34c2411b8d_11.0.zip](https://hugeota.d.miui.com/21.11.24/miui_RAPHAEL_21.11.24_34c2411b8d_11.0.zip)    |
 | [miui_RAPHAEL_21.11.23_ca45809b10_11.0.zip](https://hugeota.d.miui.com/21.11.23/miui_RAPHAEL_21.11.23_ca45809b10_11.0.zip)    |
