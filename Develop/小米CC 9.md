@@ -1,4 +1,4 @@
-| 小米CC 9  开发版/内测版    |
+| 小米CC 9  开发版/内测版卡刷包    |
 | ---- |
 | [miui_PYXIS_21.8.11_9e16e702ae_11.0.zip](https://hugeota.d.miui.com/21.8.11/miui_PYXIS_21.8.11_9e16e702ae_11.0.zip)    |
 | [miui_PYXIS_21.8.10_941d8b98f1_11.0.zip](https://hugeota.d.miui.com/21.8.10/miui_PYXIS_21.8.10_941d8b98f1_11.0.zip)    |
