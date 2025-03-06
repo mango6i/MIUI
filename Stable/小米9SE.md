@@ -1,4 +1,4 @@
-| 小米9SE  稳定版    |
+| 小米9SE  稳定版卡刷包    |
 | ---- |
 | [miui_GRUS_V12.5.4.0.RFBCNXM_4c2e342d60_11.0.zip](https://hugeota.d.miui.com/V12.5.4.0.RFBCNXM/miui_GRUS_V12.5.4.0.RFBCNXM_4c2e342d60_11.0.zip)    |
 | [miui_GRUS_V12.5.1.0.RFBCNXM_0aa6dd99a1_11.0.zip](https://hugeota.d.miui.com/V12.5.1.0.RFBCNXM/miui_GRUS_V12.5.1.0.RFBCNXM_0aa6dd99a1_11.0.zip)    |
