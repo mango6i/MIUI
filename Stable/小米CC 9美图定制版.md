@@ -1,4 +1,4 @@
-| 小米CC 9美图定制版  稳定版    |
+| 小米CC 9美图定制版  稳定版卡刷包    |
 | ---- |
 | [miui_VELA_V12.5.5.0.RFECNXM_494c77d7cf_11.0.zip](https://hugeota.d.miui.com/V12.5.5.0.RFECNXM/miui_VELA_V12.5.5.0.RFECNXM_494c77d7cf_11.0.zip)    |
 | [miui_VELA_V12.5.3.0.RFECNXM_c327a7c047_11.0.zip](https://hugeota.d.miui.com/V12.5.3.0.RFECNXM/miui_VELA_V12.5.3.0.RFECNXM_c327a7c047_11.0.zip)    |
