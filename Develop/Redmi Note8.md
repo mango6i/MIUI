@@ -1,4 +1,4 @@
-| Redmi Note8  开发版/内测版    |
+| Redmi Note8  开发版/内测版卡刷包    |
 | ---- |
 | [miui_GINKGO_21.8.11_0f88ce0f8a_11.0.zip](https://hugeota.d.miui.com/21.8.11/miui_GINKGO_21.8.11_0f88ce0f8a_11.0.zip)    |
 | [miui_GINKGO_21.8.10_20cbb15b72_11.0.zip](https://hugeota.d.miui.com/21.8.10/miui_GINKGO_21.8.10_20cbb15b72_11.0.zip)    |
