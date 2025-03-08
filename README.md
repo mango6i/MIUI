@@ -16,6 +16,9 @@
 |小米MIX3| [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米MIX3.md)| [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米MIX3.md)|
 |小米MIX2S| [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米MIX2S.md)| [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米MIX2S.md)|
 |小米9| [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米9.md)| [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米9.md)|
+|小米9最新开发版21.11.24 线刷包|
+下载节点①：(https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/21.11.24/cepheus_images_21.11.24_20211124.0000.00_11.0_cn_13caf2bd0f.tgz)
+下载节点②：(https://cdnorg.d.miui.com/21.11.24/cepheus_images_21.11.24_20211124.0000.00_11.0_cn_13caf2bd0f.tgz)
 |小米9SE| [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米9SE.md)| [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米9SE.md)|
 |小米9Pro 5G| [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米9Pro%205G.md)| [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米9Pro%205G.md)|
 |小米CC 9| [开发版](https://github.com/mooseIre/update_miui_ota/blob/master/Develop/小米CC%209.md)| [稳定版](https://github.com/mooseIre/update_miui_ota/blob/master/Stable/小米CC%209.md)|
